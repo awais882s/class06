@@ -1,4 +1,4 @@
-// import { bootstrap } from "bootstrap";ii
+// import { bootstrap } from "bootstrap";iiclear
 
 function App() {
   return (
