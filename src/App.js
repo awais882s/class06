@@ -1,4 +1,4 @@
-// import { bootstrap } from "bootstrap";iiclear
+// import { bootstrap } from "bootstrap";
 
 function App() {
   return (
@@ -9,3 +9,8 @@ function App() {
 }
 
 export default App;
+
+// components ?
+// nested components ?
+// states of components ?
+// props in components ?
