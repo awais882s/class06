@@ -6,6 +6,10 @@ function App() {
       <h1>class 06</h1>
       <p>Saylani web and mobile development</p>
       <Header />
+      <Header />
+
+      <Header />
+
     </div>
   );
 }
